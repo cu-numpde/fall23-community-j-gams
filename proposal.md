@@ -1,5 +1,4 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
 ## Software: Landlab
 
