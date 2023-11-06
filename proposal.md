@@ -19,8 +19,8 @@ Landlab is a Python package for numerically solving PDEs modeling processes on t
 | Typical number of commits per week? | 25+ |
 | Typical commit size | 1 file |
 | How does the project accept contributions? | pull requests |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
+| Does the project have an automated test suite? | All contributed code must come with unit tests etc. |
+| Does the project use continuous integration? | yes |
 | Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
